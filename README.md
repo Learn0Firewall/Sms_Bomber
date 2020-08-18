@@ -1,5 +1,6 @@
 
 <img src='sms_bomber.jpg' />
+Close the target by sending an SMS
 
 
 ## prerequisites:
