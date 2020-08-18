@@ -1,3 +1,3 @@
 # prerequisites
-apt install python tor
+* apt install python tor
 pip install requests
