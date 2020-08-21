@@ -19,7 +19,7 @@ tor HTTPTunnelPort 8000
 ## Run
 
 ```
-git clone https://github.com/Learn0Firewall/Sms_Bomber
+git clone https://github.com/Sinvor/Sms_Bomber
 cd Sms_Bomber
 python sms_bomber.py
 ```
